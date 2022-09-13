@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "mtnn-group-confidentiality-undertaking-client-side-solution",
+    "id": "0b92e6ea-912f-438d-9938-714bd595e17c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "mtnn-group-confidentiality-undertaking description"
+      },
+      "longDescription": {
+        "default": "mtnn-group-confidentiality-undertaking description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "mtnn-group-confidentiality-undertaking Feature",
+        "description": "The feature that activates elements of the mtnn-group-confidentiality-undertaking solution.",
+        "id": "e108fe33-6c88-418b-8070-c9b3da9fc9e3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/mtnn-group-confidentiality-undertaking.sppkg"
+  }
+}

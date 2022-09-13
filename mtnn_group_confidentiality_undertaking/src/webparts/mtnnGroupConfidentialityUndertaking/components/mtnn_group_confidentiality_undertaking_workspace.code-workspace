@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\sharepoint"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\helpdesk-frontend-main"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": ".\\node_modules\\typescript\\lib",
+		"git.ignoreLimitWarning": true
+	}
+}

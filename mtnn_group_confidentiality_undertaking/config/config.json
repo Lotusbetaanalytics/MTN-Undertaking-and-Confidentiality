@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "mtnn-group-confidentiality-undertaking-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/mtnnGroupConfidentialityUndertaking/MtnnGroupConfidentialityUndertakingWebPart.js",
+          "manifest": "./src/webparts/mtnnGroupConfidentialityUndertaking/MtnnGroupConfidentialityUndertakingWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "MtnnGroupConfidentialityUndertakingWebPartStrings": "lib/webparts/mtnnGroupConfidentialityUndertaking/loc/{locale}.js"
+  }
+}

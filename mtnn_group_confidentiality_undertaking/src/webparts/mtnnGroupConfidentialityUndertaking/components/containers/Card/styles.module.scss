@@ -1,0 +1,46 @@
+.card  {
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0;
+}
+
+.card  > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card p {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 40px !important;
+    margin-bottom: 25px;
+    padding: 0 10px;
+}
+
+.card small {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+
+@media screen and (max-width: 700px) {
+    .card {
+        flex: 47%;
+    }
+
+}
+
+@media screen and (max-width: 550px) {
+    .card {
+        max-width: 216px;
+        flex: 80%;
+    }
+
+} 

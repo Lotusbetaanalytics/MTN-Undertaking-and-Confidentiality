@@ -1,0 +1,32 @@
+.header {
+    background-color: #FFCC00;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dp{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: url('../../assets/pexels-christina-morillo-1181414.jpg');
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.name {
+    font-weight: 300;
+    font-size: 14px;
+}

@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "mtnn-group-confidentiality-undertaking",
+    "libraryId": "0b92e6ea-912f-438d-9938-714bd595e17c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "mtnn-group-confidentiality-undertaking",
+    "solutionShortDescription": "mtnn-group-confidentiality-undertaking description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,23 @@
+.btn {
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.8);
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 1rem;
+    padding: 10px 0;
+}
+
+
+.disabledBtn {
+    background: rgba(165, 162, 151, 0.5);
+}
+
+.yellowBtn {
+    background: #FFCC00;
+}
+
+

@@ -1,0 +1,43 @@
+.undertakingContent {
+    padding: 40px;
+}
+
+
+h5 {
+    margin-bottom: 50px;
+    font-weight: 800;
+}
+
+p {
+    font-weight: 300;
+    text-align: justify;
+    margin-bottom: 30px;
+    line-height: 1.5em;
+}
+
+
+.btn {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+
+.btn > span {
+    background: #FFCC00;
+    font-size: 11px;
+    font-weight: 400;
+    border-radius: 10px;
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    span {
+        color: rgba(0, 0, 0, 0.6);
+        font-size: 16px;
+        padding-top: 20px;
+        margin-left: 10px;
+        align-self: center;
+    }
+    
+}
